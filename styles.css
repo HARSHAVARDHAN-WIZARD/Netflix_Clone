@@ -225,7 +225,7 @@ position: absolute;
 bottom: 8%;
 left: 50%;
 transform: translateX(-50%);
-width: 100%;
+width: 60%;
 max-width: 26em;
 display: flex;
 align-items: center;
@@ -235,6 +235,7 @@ border-radius: 10px;
     height: 100px;
     padding: 1rem;
     gap: 15px;
+    overflow-y: hidden;
 
 }
 
@@ -267,7 +268,7 @@ height: 100%;
 }
 .gif {
 width: 100%;
-height: 100%;
+height: 90%;
 }
 
 .feature__3__backgroud__video__container {
